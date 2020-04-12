@@ -1,0 +1,26 @@
+{
+  "name": "flarumcn-guidelines",
+  "version": "1.0.0",
+  "description": "Flarum 中文社区文档",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:FlarumCN/Guidelines.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress-plugin-comment": "^0.7.3"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.4.0",
+    "@vuepress/plugin-back-to-top": "^1.4.0",
+    "@vuepress/plugin-nprogress": "^1.4.0"
+  }
+}
