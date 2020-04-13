@@ -29,7 +29,7 @@ module.exports = {
           ]
         },
       ],
-      lastUpdated: '上次更新：',
+      lastUpdated: '上次更新',
       docsRepo: 'https://gitee.com/FlarumCN/Guidelines',
       docsDir: 'docs',
       editLinks: true,
