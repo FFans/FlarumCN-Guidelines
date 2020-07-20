@@ -26,10 +26,12 @@ module.exports = {
       ],
       sidebar: [
         {
-          title: '第一部分：用户协议',
+          title: '第一编　用户协议',
           collapsable: false, // 展开侧边栏分组
           children: [
-            'protocol'
+            'protocol',
+            'terms',
+            'privacy'
           ]
         },
       ],
